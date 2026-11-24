@@ -1,0 +1,8 @@
+{"action":"REGISTER_HOST","host_id":"H001","name":"Rahul"}
+{"action":"REGISTER_GUEST","guest_id":"G001","name":"Arun","age":22,"licence_valid_until":"2027-12-31","trust_score":85}
+{"action":"REGISTER_VEHICLE","vehicle_id":"V001","host_id":"H001","vehicle_type":"CAR","segment":"HATCHBACK","hourly_rate":100,"daily_rate":1500,"city":"Bangalore"}
+{"action":"BOOK","guest_id":"G001","vehicle_id":"V001","start_time":"2026-11-05T10:00:00","end_time":"2026-11-05T15:00:00"}
+{"action":"START_TRIP","booking_id":"B001","odometer":10000,"fuel":8}
+{"action":"END_TRIP","booking_id":"B001","end_odometer":10050,"end_fuel":8,"actual_return_time":"2026-11-05T15:00:00","damage_items":[]}
+{"action":"RELEASE_DEPOSIT","booking_id":"B001","current_time":"2026-11-07T15:00:00"}
+{"action":"RELEASE_DEPOSIT","booking_id":"B001","current_time":"2026-11-08T15:00:00"}

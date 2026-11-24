@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.vscode/
+.venv/
+venv/
+*.pyc
+*.zip
+all_modules.txt
+all_tests.txt
+project_bundle.txt
+project_data_backup*.json
+project_data_previous.json

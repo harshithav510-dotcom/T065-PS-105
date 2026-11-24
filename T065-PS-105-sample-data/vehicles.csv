@@ -1,0 +1,16 @@
+vehicle_id,host_id,vehicle_type,segment,model,hourly_rate,daily_rate,home_city
+VEH-001,HST-001,CAR,HATCHBACK,Hyundai i20,130.00,2000.00,Bengaluru
+VEH-002,HST-002,CAR,HATCHBACK,Hyundai i20,110.00,2000.00,Mangaluru
+VEH-003,HST-003,CAR,HATCHBACK,Tata Tiago,140.00,1700.00,Bengaluru
+VEH-004,HST-004,CAR,HATCHBACK,Hyundai i20,140.00,2000.00,Mangaluru
+VEH-005,HST-005,CAR,HATCHBACK,Tata Tiago,130.00,2000.00,Hubballi
+VEH-006,HST-006,CAR,SEDAN,Hyundai Verna,170.00,2600.00,Bengaluru
+VEH-007,HST-007,CAR,SEDAN,Honda City,170.00,2500.00,Hubballi
+VEH-008,HST-008,CAR,SEDAN,Hyundai Verna,200.00,2600.00,Bengaluru
+VEH-009,HST-001,CAR,SUV,Tata Harrier,260.00,3700.00,Bengaluru
+VEH-010,HST-002,CAR,SUV,Kia Seltos,280.00,4000.00,Mangaluru
+VEH-011,HST-003,CAR,SUV,Kia Seltos,270.00,4000.00,Bengaluru
+VEH-012,HST-004,CAR,LUXURY,Mercedes C-Class,720.00,9700.00,Mangaluru
+VEH-013,HST-005,BIKE,BIKE,Honda Activa,60.00,900.00,Hubballi
+VEH-014,HST-006,BIKE,BIKE,Honda Activa,50.00,700.00,Bengaluru
+VEH-015,HST-003,BIKE,BIKE,Royal Enfield Classic 350,80.00,1000.00,Hubballi

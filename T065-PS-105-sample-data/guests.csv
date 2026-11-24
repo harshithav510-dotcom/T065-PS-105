@@ -1,0 +1,21 @@
+guest_id,guest_name,gender,dob,licence_expiry,trust_score,open_damage_claim,city
+GST-001,Anjali Desai,F,1996-10-12,2029-08-13,85,false,Mangaluru
+GST-002,Radha Rao,F,2006-10-20,2028-10-10,64,false,Bengaluru
+GST-003,Farida Desai,F,1995-04-26,2028-01-10,38,false,Mangaluru
+GST-004,Sunil Yadav,M,1991-08-09,2026-10-18,47,false,Mangaluru
+GST-005,Abhishek Sharma,M,1979-02-19,2027-01-01,63,true,Bengaluru
+GST-006,Ravi Kumar,M,2002-11-10,2027-04-02,83,false,Hubballi
+GST-007,Nisha Sharma,F,1989-01-22,2030-09-23,72,false,Mangaluru
+GST-008,Lokesh Kulkarni,M,1996-03-20,2030-04-19,43,false,Hubballi
+GST-009,Varun Hegde,M,1981-01-26,2030-04-15,54,false,Mangaluru
+GST-010,Nisha Murthy,F,1983-10-28,2029-02-09,35,false,Bengaluru
+GST-011,Sneha Nair,F,1990-07-26,2030-08-16,57,false,Bengaluru
+GST-012,Sachin Agarwal,M,1989-09-14,2030-10-30,54,false,Mangaluru
+GST-013,Meena Yadav,F,1995-12-06,2030-03-16,74,false,Mysuru
+GST-014,Farhan Murthy,M,1984-04-14,2029-06-07,74,false,Hubballi
+GST-015,Vidya Kulkarni,F,1978-02-12,2030-01-25,60,false,Bengaluru
+GST-016,Dinesh Rao,M,1999-06-09,2027-04-09,63,false,Mysuru
+GST-017,Priya Singh,F,1998-10-09,2028-03-23,85,false,Mysuru
+GST-018,Dinesh Chowdhury,M,1987-03-28,2029-05-21,69,false,Mangaluru
+GST-019,Pavan Mishra,M,1983-05-26,2028-12-05,46,false,Hubballi
+GST-020,Zara Das,F,1987-11-27,2029-08-15,46,false,Hubballi

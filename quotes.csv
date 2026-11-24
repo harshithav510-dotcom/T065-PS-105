@@ -1,0 +1,59 @@
+booking_id,status,pricing_mode,duration_charge,deposit_blocked,protection_fee,message
+BKG-048,BOOKED,HOURLY,600.0,1000.0,0.0,Booking successful.
+BKG-044,BOOKED,HOURLY,480.0,1000.0,0.0,Booking successful.
+BKG-058,BOOKED,HOURLY,480.0,1000.0,150.0,Booking successful.
+BKG-028,BOOKED,HOURLY,120.0,1000.0,0.0,Booking successful.
+BKG-031,BOOKED,HOURLY,560.0,3000.0,0.0,Booking successful.
+BKG-001,BOOKED,DAILY,2600.0,2500.0,0.0,Booking successful.
+BKG-040,BOOKED,HOURLY,1400.0,3000.0,150.0,Booking successful.
+BKG-002,BOOKED,HOURLY,650.0,3000.0,0.0,Booking successful.
+BKG-014,REJECTED,,0.0,0.0,0.0,Vehicle is already booked.
+BKG-022,BOOKED,HOURLY,240.0,1000.0,0.0,Booking successful.
+BKG-003,BOOKED,HOURLY,240.0,1000.0,0.0,Booking successful.
+BKG-036,BOOKED,HOURLY,300.0,1000.0,0.0,Booking successful.
+BKG-041,BOOKED,HOURLY,840.0,3000.0,0.0,Booking successful.
+BKG-029,BOOKED,HOURLY,100.0,500.0,0.0,Booking successful.
+BKG-004,BOOKED,HOURLY,660.0,1500.0,150.0,Booking successful.
+BKG-007,BOOKED,HOURLY,1222.0,8000.0,0.0,Booking successful.
+BKG-023,BOOKED,HOURLY,480.0,1000.0,150.0,Booking successful.
+BKG-005,BOOKED,HOURLY,420.0,3000.0,0.0,Booking successful.
+BKG-006,BOOKED,HOURLY,560.0,3000.0,0.0,Booking successful.
+BKG-051,BOOKED,HOURLY,574.0,3000.0,150.0,Booking successful.
+BKG-046,BOOKED,HOURLY,1020.0,5000.0,0.0,Booking successful.
+BKG-025,BOOKED,HOURLY,2700.0,8000.0,0.0,Booking successful.
+BKG-008,BOOKED,HOURLY,480.0,1000.0,0.0,Booking successful.
+BKG-043,BOOKED,HOURLY,1680.0,3000.0,150.0,Booking successful.
+BKG-030,BOOKED,DAILY,19400.0,20000.0,1552.0,Booking successful.
+BKG-018,BOOKED,HOURLY,840.0,4000.0,0.0,Booking successful.
+BKG-017,BOOKED,HOURLY,520.0,3000.0,0.0,Booking successful.
+BKG-027,BOOKED,HOURLY,1040.0,3000.0,150.0,Booking successful.
+BKG-053,BOOKED,HOURLY,390.0,3000.0,0.0,Booking successful.
+BKG-026,BOOKED,DAILY,1800.0,1000.0,150.0,Booking successful.
+BKG-033,BOOKED,DAILY,7400.0,8000.0,592.0,Booking successful.
+BKG-045,BOOKED,HOURLY,2160.0,10000.0,172.8,Booking successful.
+BKG-019,BOOKED,HOURLY,1350.0,8000.0,150.0,Booking successful.
+BKG-020,BOOKED,DAILY,8492.0,8000.0,0.0,Booking successful.
+BKG-009,REJECTED,,0.0,0.0,0.0,Licence must be valid through one day after trip end.
+BKG-010,REJECTED,,0.0,0.0,0.0,Minimum age requirement not met.
+BKG-011,BOOKED,HOURLY,300.0,1000.0,0.0,Booking successful.
+BKG-012,REJECTED,,0.0,0.0,0.0,Trust score too low for luxury vehicle.
+BKG-013,REJECTED,,0.0,0.0,0.0,Guest has an open damage claim.
+BKG-049,BOOKED,DAILY,1400.0,1000.0,0.0,Booking successful.
+BKG-050,BOOKED,HOURLY,680.0,5000.0,0.0,Booking successful.
+BKG-052,BOOKED,HOURLY,400.0,1000.0,0.0,Booking successful.
+BKG-054,BOOKED,HOURLY,680.0,5000.0,150.0,Booking successful.
+BKG-015,BOOKED,HOURLY,1360.0,5000.0,0.0,Booking successful.
+BKG-016,BOOKED,HOURLY,1600.0,5000.0,0.0,Booking successful.
+BKG-042,BOOKED,HOURLY,500.0,1000.0,0.0,Booking successful.
+BKG-035,BOOKED,DAILY,2700.0,500.0,216.0,Booking successful.
+BKG-056,BOOKED,DAILY,6000.0,3000.0,480.0,Booking successful.
+BKG-032,BOOKED,DAILY,11100.0,8000.0,0.0,Booking successful.
+BKG-055,BOOKED,HOURLY,1200.0,5000.0,0.0,Booking successful.
+BKG-047,BOOKED,HOURLY,650.0,3000.0,150.0,Booking successful.
+BKG-039,BOOKED,HOURLY,2160.0,8000.0,172.8,Booking successful.
+BKG-021,BOOKED,DAILY,5200.0,5000.0,416.0,Booking successful.
+BKG-034,BOOKED,DAILY,3400.0,3000.0,272.0,Booking successful.
+BKG-057,BOOKED,HOURLY,1620.0,8000.0,150.0,Booking successful.
+BKG-038,BOOKED,DAILY,4000.0,3000.0,320.0,Booking successful.
+BKG-037,BOOKED,HOURLY,500.0,1000.0,0.0,Booking successful.
+BKG-024,BOOKED,HOURLY,3668.0,4000.0,0.0,Booking successful.
