@@ -1,0 +1,118 @@
+{
+    "hosts": [
+        {
+            "host_id": "H001",
+            "name": "Rahul",
+            "completed_trips": 1,
+            "rank": 0
+        }
+    ],
+    "guests": [
+        {
+            "guest_id": "G001",
+            "name": "Arun",
+            "age": 22,
+            "licence_valid_until": {
+                "__type__": "date",
+                "value": "2027-12-31"
+            },
+            "trust_score": 85,
+            "open_damage_claim": false
+        }
+    ],
+    "vehicles": [
+        {
+            "vehicle_id": "V001",
+            "host_id": "H001",
+            "vehicle_type": "CAR",
+            "segment": "HATCHBACK",
+            "hourly_rate": 100,
+            "daily_rate": 1500,
+            "home_city": "Bangalore",
+            "km_allowance": 0
+        }
+    ],
+    "bookings": [
+        {
+            "booking_id": "B001",
+            "guest_id": "G001",
+            "vehicle_id": "V001",
+            "start_time": {
+                "__type__": "datetime",
+                "value": "2026-11-05T10:00:00"
+            },
+            "end_time": {
+                "__type__": "datetime",
+                "value": "2026-11-05T15:00:00"
+            },
+            "status": "COMPLETED"
+        },
+        {
+            "booking_id": "B002",
+            "guest_id": "G001",
+            "vehicle_id": "V001",
+            "start_time": {
+                "__type__": "datetime",
+                "value": "2026-11-05T10:00:00"
+            },
+            "end_time": {
+                "__type__": "datetime",
+                "value": "2026-11-05T15:00:00"
+            },
+            "status": "BOOKED"
+        }
+    ],
+    "start_reports": {
+        "B001": {
+            "booking_id": "B001",
+            "start_odometer": 10000,
+            "start_fuel": 8,
+            "start_time": {
+                "__type__": "datetime",
+                "value": "2026-11-24T20:44:24.511298"
+            }
+        }
+    },
+    "end_reports": {
+        "B001": {
+            "booking_id": "B001",
+            "start_odometer": 10000,
+            "end_odometer": 10050,
+            "distance_travelled": 50,
+            "start_fuel": 8,
+            "end_fuel": 8,
+            "actual_return_time": {
+                "__type__": "datetime",
+                "value": "2026-11-05T15:00:00"
+            },
+            "damage_items": []
+        }
+    },
+    "booking_details_store": {
+        "B001": {
+            "trip_price": 500.0,
+            "deposit": 1500.0,
+            "protection": false,
+            "protection_fee": 0,
+            "status": "BOOKED"
+        },
+        "B002": {
+            "trip_price": 500.0,
+            "deposit": 1500.0,
+            "protection": false,
+            "protection_fee": 0,
+            "status": "BOOKED"
+        }
+    },
+    "cancellation_records": {},
+    "deposit_release_records": {
+        "B001": {
+            "completion_time": {
+                "__type__": "datetime",
+                "value": "2026-11-05T15:00:00"
+            },
+            "refund_amount": 1500.0,
+            "released": true
+        }
+    }
+}

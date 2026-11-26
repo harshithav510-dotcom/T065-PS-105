@@ -46,6 +46,20 @@
                 "value": "2026-11-05T15:00:00"
             },
             "status": "COMPLETED"
+        },
+        {
+            "booking_id": "B002",
+            "guest_id": "G001",
+            "vehicle_id": "V001",
+            "start_time": {
+                "__type__": "datetime",
+                "value": "2026-11-05T10:00:00"
+            },
+            "end_time": {
+                "__type__": "datetime",
+                "value": "2026-11-05T15:00:00"
+            },
+            "status": "BOOKED"
         }
     ],
     "start_reports": {
@@ -55,7 +69,7 @@
             "start_fuel": 8,
             "start_time": {
                 "__type__": "datetime",
-                "value": "2026-11-24T20:44:24.511298"
+                "value": "2026-11-25T21:37:50.550291"
             }
         }
     },
@@ -76,6 +90,13 @@
     },
     "booking_details_store": {
         "B001": {
+            "trip_price": 500.0,
+            "deposit": 1500.0,
+            "protection": false,
+            "protection_fee": 0,
+            "status": "BOOKED"
+        },
+        "B002": {
             "trip_price": 500.0,
             "deposit": 1500.0,
             "protection": false,
